@@ -1,0 +1,20 @@
+﻿<Window x:Class="Chess.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       
+       
+        Title="Chess Game [Levon Momchyan]" Height="465" Width="916" ResizeMode="CanMinimize" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Name="box3" Height="50" Width="400" Foreground="Black" FontSize="40" FontFamily="Sylfaen" FontWeight="Light" HorizontalAlignment="Right"  Margin="0,10,20,0"/>
+            <TextBlock Name="box2" Height="50" Width="400" Foreground="Black" FontSize="40" FontFamily="Sylfaen" FontWeight="Light" HorizontalAlignment="Right" Margin="0,10,20,0"/>
+            <Button Click="Reset_Board" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="613,30,0,0" Content="New Game" Height="66" Width="126"/>
+        </StackPanel>
+      
+        <Image Name="MyBoard" Source="wpf_chess/board.jpg" HorizontalAlignment="Left" Width="432" Height="432" VerticalAlignment="Top"/>
+        <Grid Name="BoardGrid" Width="432" Height="432" VerticalAlignment="Top" HorizontalAlignment="Left"></Grid>
+
+    </Grid>
+
+</Window>

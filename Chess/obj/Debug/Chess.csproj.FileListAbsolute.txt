@@ -1,0 +1,98 @@
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\kmast\Desktop\Новая папка\Chess\Chess\obj\Debug\Chess.pdb
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe.config
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.pdb
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.g.cs
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\App.g.cs
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.baml
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.g.resources
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.exe
+D:\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.pdb
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe.config
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.exe
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.pdb
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.g.cs
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\App.g.cs
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.pdb
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.baml
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.g.resources
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+\\Karen-ms-notebook\d\HMO\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.exe
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\bin\Debug\Chess.pdb
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.g.cs
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\App.g.cs
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\MainWindow.baml
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.g.resources
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.exe
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.pdb
+D:\Learning\Բակալավր ԳՊՀ ՀՃ 2016-2020\C#\Kursayin 3_2\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\bin\Debug\Chess.exe.config
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\bin\Debug\Chess.exe
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\bin\Debug\Chess.pdb
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.g.resources
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.exe
+C:\Users\User\Desktop\ChessGame\sharpChess\Chess\obj\Debug\Chess.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\bin\Debug\Chess.exe.config
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\bin\Debug\Chess.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\bin\Debug\Chess.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.g.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\C# Անհատական, Կուրսային [Լևոն Մոմչյան]\ChessGame\Chess\obj\Debug\Chess.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\bin\Debug\Chess.exe.config
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\bin\Debug\Chess.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\bin\Debug\Chess.pdb
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.g.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.exe
+C:\Users\User\Desktop\Անհատական  (3-րդ կուրս, 2-րդ կիսամյակ)\Անհատական C#\sharpChess\Լևոն Մոմչյան  C# [ Անհատական, Կուրսային ]\ChessGame\Chess\obj\Debug\Chess.pdb
